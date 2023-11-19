@@ -1,0 +1,35 @@
+.navbackground{
+    background-color: #1A187A;
+}
+.cart-icon {
+    color: white;
+}
+
+.fashion-button{
+    background-color: #1A187A;
+    color: white;
+}
+
+.half-iphone{
+    margin-bottom: -40px;
+}
+
+/* .mackbook-pro{
+    margin-right: -280px;
+    @media (max-width: 575.98px) {
+        margin-right: 0;
+    }
+}
+
+.sale-image-1{
+    margin-left: -60px;
+    @media (max-width: 575.98px) {
+        margin-right: 0;
+    }
+}
+.sale-image-2{
+    margin-right: -60px;
+    @media (max-width: 575.98px) {
+        margin-right: 0;
+    }
+} */
